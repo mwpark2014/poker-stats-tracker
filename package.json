@@ -1,0 +1,22 @@
+{
+  "name": "poker-stats-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwpark2014/poker-stats-tracker.git"
+  },
+  "author": "Mason Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwpark2014/poker-stats-tracker/issues"
+  },
+  "homepage": "https://github.com/mwpark2014/poker-stats-tracker#readme",
+  "dependencies": {
+    "create-react-app": "^3.0.0"
+  }
+}
